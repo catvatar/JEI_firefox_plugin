@@ -1,0 +1,20 @@
+{
+  "sidebar_action": {
+    "browser_style": true,
+    "default_title": "Just enough items",
+    "default_panel": "out/index.html",
+    "default_icon": {
+      "19": "icons/window19.png",
+      "38": "icons/window38.png"
+    }
+  },
+  "icons": {
+    "48": "icons/window.png",
+    "96": "icons/window@2x.png"
+  },
+  "description": "JEI-inspired search-engine abstraction.",
+  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/window-manipulator",
+  "manifest_version": 2,
+  "name": "Just enough items",
+  "version": "0.0"
+}
